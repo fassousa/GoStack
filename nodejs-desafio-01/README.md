@@ -1,5 +1,5 @@
-# nodejs-desafio-01
- Aplicação utilizando ExpressJS, Nunjucks, EditorConfig e ESLint
+# Desafio 1
+ Aplicação utilizando **ExpressJS, Nunjucks, EditorConfig e ESLint**
 
 Rotas
 * **/** : Rota inicial que renderiza uma página com um formulário com um único campo **age** que representa a idade do usuário;
